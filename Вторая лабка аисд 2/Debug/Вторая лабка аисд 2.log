@@ -1,0 +1,6 @@
+﻿  timsort1.cpp
+  Вторая лабка аисд 2.cpp
+C:\Users\nasty\source\repos\Вторая лабка аисд 2\Вторая лабка аисд 2.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\nasty\source\repos\Вторая лабка аисд 2\Вторая лабка аисд 2.cpp(190,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  Вторая лабка аисд 2.vcxproj -> C:\Users\nasty\source\repos\Вторая лабка аисд 2\Debug\Вторая лабка аисд 2.exe
